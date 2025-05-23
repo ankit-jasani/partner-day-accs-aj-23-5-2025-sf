@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/adobe-commerce/adobe-demo-store/
+    url: https://content.da.live/ankit-jasani/partner-day-accs-aj-23-5-2025-sf/
     type: markup
 
 folders:
@@ -10,6 +10,3 @@ folders:
   /lifestyle: /categories/default
   /bags: /categories/default
   /collections: /categories/default
-  # /all/: /categories/default
-  # /sale/: /categories/default
-  # /gift-card/: /categories/default
